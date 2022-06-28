@@ -1,0 +1,38 @@
+/* @media only screen and (max-width: 700px) {
+    body {
+        background-color: red;
+    }
+} */
+
+.songItem {
+    height: 47px;
+    width: 90%;
+    font-size: 0.9rem;
+
+}
+
+.container {
+    min-height: 85vh;
+
+}
+
+.bottom {
+    height: 135px;
+
+}
+
+
+.icons {
+    margin-top: 50px;
+
+}
+
+.songItem img {
+    width: 27px;
+    margin: 0 23px;
+    border-radius: 10px;
+}
+
+.songinfo img {
+    width: 35px;
+}
