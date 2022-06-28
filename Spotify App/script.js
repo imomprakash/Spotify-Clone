@@ -16,7 +16,7 @@ let songs = [
     { songName: " Tumse Pyaar Karke", filepath: "songs/4.mp3", coverpath: "covers/d.jpg" },
     { songName: " Dua Karo Mp3", filepath: "songs/5.mp3", coverpath: "covers/e.jpg" },
     { songName: " Jiye Toh Jiye Kaise", filepath: "songs/6.mp3", coverpath: "covers/f.jpg" },
-    { songName: " Kanika Kapoor - Buhe Bariyan", filepath: "songs/7.mp3", coverpath: "covers/g.jpg" },
+    { songName: " Kanika Kapoor - Buhe ", filepath: "songs/7.mp3", coverpath: "covers/g.jpg" },
     { songName: " Naina - Chaap Tilak", filepath: "songs/8.mp3", coverpath: "covers/h.jpg" },
     { songName: " Arijit Singh - Dhokha", filepath: "songs/9.mp3", coverpath: "covers/i.jpg" },
     { songName: " Dil Pe Zakhm Mp3", filepath: "songs/10.mp3", coverpath: "covers/j.jpg" },
